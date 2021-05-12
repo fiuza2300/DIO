@@ -6,12 +6,20 @@
  
  <p align="center">
   <a href="#DIO.Bank">DIO.Bank</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#DIO.Serie">DIO.Serie</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
  
 ### DIO.Bank 
 ```
 Proposta
    Criação de uma aplicação de transferência bancárias utilizando o .net
+Objetivo
+  Fixação do conteúdo sobre programação orientado a objetos (POO).
+```
+### DIO.Serie
+```
+Proposta
+   Criação de uma aplicação de séries utilizando o .net
 Objetivo
   Fixação do conteúdo sobre programação orientado a objetos (POO).
 ```
