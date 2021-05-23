@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <member name="M:curso.api.Controllers.CursoController.Post(curso.api.Models.Curso.CursoViewModelInput)">
+            <summary>
+            Cadastramento de Cursos
+            </summary>
+            <param name="cursoViewModelInput">View da Model de Curso</param>
+            <returns></returns>
+        </member>
+        <member name="M:curso.api.Controllers.CursoController.Get">
+            <summary>
+            Retorna uma Lista dos Cursos Cadastrados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Logar(curso.api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Este serviço permite autenticar um usuario cadastrado
+            </summary>
+            <param name="loginViewModelInput">View da Model de Login</param>
+            <returns>Retornar status ok, login e senha ok</returns>
+        </member>
+        <member name="M:curso.api.Controllers.UsuarioController.Registrar(curso.api.Models.Usuarios.RegistrarViewModelInput)">
+            <summary>
+            Este serviço permite cadastrar um usuario
+            </summary>
+            <param name="registrarViewModelInput">View da Model de Registrar</param>
+            <returns>Retornar status ok, login e senha ok</returns>
+        </member>
+    </members>
+</doc>
